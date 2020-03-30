@@ -10,8 +10,8 @@ Watermelon Online Judge 线上开发。
 
 2. 每个 ``*.java``   工程文件必须加上 ``@version`` ，在文件变更时对 ``@version`` 进行相应的变更
 
-   - 2.1 小修补之类的对 *末* 位进行更改，如 `1.0.0` -> `1.0.1`
-   - 2.2 有功能上的更新，对 *中间* 位进行更改，如 `1.0.0` -> `1.1.0`
+   - 2.1 小修补之类的对 **末** 位进行更改，如 `1.0.0` -> `1.0.1`
+   - 2.2 有功能上的更新，对 **中间** 位进行更改，如 `1.0.0` -> `1.1.0`
    - 2.3 有较大更新，且 **移除** 或 **不兼容** 以往的接口，对 *首位* 进行变更，如 `1.0.0` -> `2.0.0`
 
 ```
@@ -42,7 +42,9 @@ https://github.com/ruanyf/document-style-guide
 
 https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md
 
+### 1.5 前端图标参考 
 
+https://fontawesome.com/icons?d=gallery
 
 ## 2. 项目说明
 

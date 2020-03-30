@@ -42,7 +42,7 @@ https://github.com/ruanyf/document-style-guide
 
 https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.zh-CN.md
 
-### 1.5 前端图标参考 
+### 1.5 Icons
 
 https://fontawesome.com/icons?d=gallery
 

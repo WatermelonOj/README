@@ -1,6 +1,3 @@
-# README
-写在前面的话
-
 ## 0. 开始
 
 Watermelon Online Judge 线上开发。
@@ -52,10 +49,10 @@ https://github.com/sparanoid/chinese-copywriting-guidelines/blob/master/README.z
 | 编号 | 项目                                                         | 作用                                 | 依赖 |
 | ---- | ------------------------------------------------------------ | ------------------------------------ | ---- |
 | 0    | [WatermelonRoot](https://github.com/WatermelonOj/WatermelonRoot) | 所有项目的 `parent`，作统一版本控制  | 无   |
-| 1    | WatermelonJudger (in queue)                                  | 用于处理题目评判业务                 | 0    |
+| 1    | [WatermelonJudger](https://github.com/WatermelonOj/WatermelonJudger) | 用于处理题目评判业务                 | 0    |
 | 2    | [WatermelonBackend](https://github.com/WatermelonOj/WatermelonBackend) | 用于处理后端题目、比赛、讨论区等业务 | 0, 1 |
 | 3    | [MavenRepo](https://github.com/WatermelonOj/MavenRepo)       | Java 仓库                            | 无   |
-| 4    | WatermelonFontend (in queue)                                 | Watermelon 前端                      | 无   |
-| 5    | [README](https://github.com/WatermelonOj/README)             | 规范自定义                             | 无   |
+| 4    | [WatermelonFrontend](https://github.com/WatermelonOj/WatermelonFrontend) | Watermelon 前端                      | 无   |
+| 5    | [README](https://github.com/WatermelonOj/README)             | 规范定义                             | 无   |
 | 6    | [WORD-PPT](https://github.com/WatermelonOj/WORD-PPT)         | 答辩材料                             | 无   |
 

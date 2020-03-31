@@ -58,3 +58,19 @@ https://fontawesome.com/icons?d=gallery
 | 5    | [README](https://github.com/WatermelonOj/README)             | 规范定义                             | 无   |
 | 6    | [WORD-PPT](https://github.com/WatermelonOj/WORD-PPT)         | 答辩材料                             | 无   |
 
+## 3. jar 包加载
+  
+出于某些众所周知的原因, 从 github 加载 jar 包出奇的慢, 需要在 maven 的 settings.xml 文件中加入代理。
+
+例如：
+
+```
+<proxy>
+    <id>ss</id>
+    <active>true</active>
+    <protocol>http</protocol>
+    <host>127.0.0.1</host>
+    <port>7890</port>
+    <nonProxyHosts>127.0.0.1</nonProxyHosts>
+</proxy>
+```
